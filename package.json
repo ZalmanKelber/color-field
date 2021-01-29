@@ -1,0 +1,16 @@
+{
+  "name": "color-field",
+  "version": "1.0.0",
+  "description": "a package that generates distinct categories of colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "data",
+    "visualization"
+  ],
+  "author": "Alex Kelber (AlexKelber@gmail.com)",
+  "license": "ISC"
+}
